@@ -1,7 +1,7 @@
 ﻿// All .NET programs begin with the main method, but with .NET 6 they removed the need for Main function
 
 using System.Diagnostics;
-
+// changes made in class 
 
 // example 0 - first program
 Console.WriteLine("Hello World!");
